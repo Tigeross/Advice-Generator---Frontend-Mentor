@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Tigeross/Advice-Generator---Frontend-Mentor](https://github.com/Tigeross/Advice-Generator---Frontend-Mentor)
-- Live Site URL: [https://github.io/Tigeross/Advice-Generator---Frontend-Mentor](https://github.io/Tigeross/Advice-Generator---Frontend-Mentor)
+- Live Site URL: [https://tigeross.github.io/Advice-Generator---Frontend-Mentor/](https://tigeross.github.io/Advice-Generator---Frontend-Mentor/)
 
 ## My process
 
@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Tigeross](https://www.frontendmentor.io/profile/Tigeross))
+- Frontend Mentor - [@Tigeross](https://www.frontendmentor.io/profile/Tigeross)
 
